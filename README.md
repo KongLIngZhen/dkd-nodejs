@@ -1,4 +1,7 @@
 # 项目说明文件
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](1)
+[![Node](https://img.shields.io/badge/node-8.1.4-brightgreen.svg)]()
+[![Express](https://img.shields.io/badge/express-4.15.2-blue.svg)]()
 
 面向服务开发NodeJS Web应用
 
