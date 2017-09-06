@@ -5,17 +5,12 @@ module.exports = {
 	},
 	"extends": "eslint:recommended",
 	"parserOptions": {
-		"sourceType": "module",
-		"ecmaVersion": 6
+		"sourceType": "module"
 	},
 	"rules": {
 		"indent": [
 			"error",
 			"tab"
-		],
-		"linebreak-style": [
-			"error",
-			"windows"
 		],
 		"quotes": [
 			"error",
